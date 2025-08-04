@@ -12,3 +12,7 @@ The script performs the following steps:
 5.  Iterates through a predefined list of text prompts.
 6.  For each prompt, it generates an image using a guided diffusion process.
 7.  Saves the generated images as PNG files.
+
+## Setup
+
+To run this project, follow these steps. These commands are already included in the `flux_1_dev_jupyter.py` script.
