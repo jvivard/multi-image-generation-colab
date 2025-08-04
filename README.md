@@ -1,2 +1,3 @@
-# multi-image-generation-colab
-Modified version of Flux by ForestLabs. Generate multiple images using either multiple prompts or a single prompt. Supports seed control for reproducible results. Ideal for bulk image generation and creative experimentation in Google Colab
+# FLUX.1-dev Image Generation
+
+This project contains a Python script for generating images from text prompts using the FLUX.1-dev text-to-image model. The script is adapted from a Jupyter Notebook and is designed to run in an environment like Google Colab.
