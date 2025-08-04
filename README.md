@@ -16,3 +16,9 @@ The script performs the following steps:
 ## Setup
 
 To run this project, follow these steps. These commands are already included in the `flux_1_dev_jupyter.py` script.
+
+### 1. Clone Repository
+The script clones a repository that provides the necessary framework:
+```bash
+git clone -b totoro3 https://github.com/jvivard/Multi-image-gen-colab
+
