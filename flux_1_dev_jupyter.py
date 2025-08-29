@@ -65,8 +65,7 @@ prompts = [
     "black forest toast spelling out the words 'J', tasty, food photography, dynamic shot",
     "chocolate lava cake with molten center, top-down food shot, high detail",
     "rainbow fruit tart on a marble counter, food magazine style, vivid colors",
-    "stacked blueberry pancakes with syrup dripping, close-up food image",
-    "matcha latte art with leaf pattern, cozy cafe style"
+   
 ]
 
 width = 1024
