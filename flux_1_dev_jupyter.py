@@ -1,6 +1,6 @@
 flux.1-dev_jupyter.ipynb
 
-Automatically by Colab.
+ by Colab.
 
 
 #Torch compitable version
